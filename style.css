@@ -1,0 +1,39 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(161, 161, 238);
+}
+
+.header_div {
+background-color: lavender;
+color: rgb(5, 0, 0);
+font-weight: bold;
+}
+
+.header_div p {
+font-weight: bold;
+}
+
+#result_name, #result_confidence {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: rgb(58, 45, 73);
+font-weight:bold;
+}
+
+.main_div button {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: bold;
+width: 130px;
+margin-top:30px;
+}
+
+.footer {
+    position:fixed;
+    background-color: lavender;
+color: rgb(5, 0, 0);
+font-weight: bold;
+width:100%;
+font-size: 15px;
+text-align: center;
+bottom: 0;
+padding: 15px;
+}
